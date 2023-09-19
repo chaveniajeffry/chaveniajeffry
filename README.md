@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeffry Chavenia</h1>
-<h3 align="center">A enthusiastic Software Engineer and Nerd</h3>
+<h3 align="center">An enthusiastic Software Engineer and Nerd</h3>
 
 - 🔭 I’m currently working on [Lords mobile Account Management](https://github.com/chaveniajeffry/lords-mobile-account-management)
 
